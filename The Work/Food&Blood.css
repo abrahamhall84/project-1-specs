@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-width: 50%;
+	background-height: 50%; 
+	background-size: cover;
+	background-image: url(http://smhttp.32478.nexcesscdn.net/80E972/healingthebody/wp-content/uploads/2014/11/vegetables-and-fruits.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.row {
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px solid green;
+	width: fluid;
+	height: 30px;
+	background-color: black;
+	padding: 10px, 5px, 10px, 5px;
+}
+div#map {
+	margin: 0;
+    position: absolute;
+ 
+	
+}
